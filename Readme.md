@@ -1,4 +1,7 @@
-本来这个工程是用来存放一个常用的ios代码的，后来发现大家基本上是冲着arm录制和播放来着，所以干脆就把这个项目补完整，其他的删掉了。
+DON'T maintenance, please goto https://github.com/hhuai/ios-amr
+
+此项目不再更新和维护，请转往 https://github.com/hhuai/ios-amr
+
 ========
 
 环境需求
