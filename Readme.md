@@ -1,4 +1,4 @@
-DON'T maintenance, please goto https://github.com/hhuai/ios-amr
+DIDN'T maintenance, please goto https://github.com/hhuai/ios-amr
 
 此项目不再更新和维护，请转往 https://github.com/hhuai/ios-amr
 
